@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-size: 62.5%;
+  background-color: #8B3422;
+}
+
+.header {
+  display: block;
+  margin: 15px;
+  border: solid 10px #DBAB85;
+  background-image: url(../img/ruslan-bardash-xRdZIt66FSE-unsplash.jpg);
+  background-position: bottom;
+  background-size: cover;
+  height: 95vh;
+  position: relative;
+  text-align: center;
+}
+
+.header-logo {
+  height: 100px;
+  border-radius: 100px;
+  position: absolute;
+  top: 30px;
+  left: 50px;
+  border: #8B3422 solid 5px;
+}
+
+.heading {
+  color: #8B3422;
+}
+
+.heading-primary {
+  font-size: 100px;
+  font-family: "Nothing you could do", sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  position: absolute;
+  top: 20%;
+  left: 35%;
+}
+
+.footer {
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
